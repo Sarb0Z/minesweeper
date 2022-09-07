@@ -1,7 +1,6 @@
 MADE BY:
 
-ABDUL RAFAY ZAHID
-20L-1203
+Sarb0z
 
 using graphics library
 SFML
